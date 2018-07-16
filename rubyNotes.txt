@@ -34,3 +34,16 @@ end
 for var in nInt..eInt     #the two dots [..] indicate that the ending int is included in the loop
     #code
 end
+
+
+loop do
+    #code
+    break if condition
+end
+
+*Note do end is interchangeable with {}*
+
+next if condition #will skip 
+
+
+

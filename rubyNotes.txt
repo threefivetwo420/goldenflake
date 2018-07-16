@@ -60,6 +60,22 @@ while do #does not run using {}
 end
 
 
+var.split("char")  #split a string into multiple string based on char
+
+hash = {
+
+    key1 => value1,
+    key2 => value2,
+    key3 => value3
+
+}
+
+newHash = Hash.new      #creates a new empty hash
+newHash["key"] = "value"
+
+puts/print newHash["key"]       #will print the "value"
+
+
 
 
 

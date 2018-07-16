@@ -45,5 +45,23 @@ end
 
 next if condition #will skip 
 
+array = []
+
+object.each { |var| 
+    #code
+}
+
+int.times { #code } # will repeat code int number of times
+
+
+
+
+
+
+
+
+
+
+
 
 

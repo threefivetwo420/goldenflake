@@ -25,3 +25,12 @@ increment variable as "+="
 decrement variable as "-+"
 multiment variable as "*="
 dividment variable as "/="
+
+
+for var in bInt...eInt    #the three dots [...] indicate that the ending int is not include in the loop
+    #code 
+end
+
+for var in nInt..eInt     #the two dots [..] indicate that the ending int is included in the loop
+    #code
+end

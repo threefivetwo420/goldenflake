@@ -55,6 +55,10 @@ int.times { #code } # will repeat code int number of times
 
 
 
+while do #does not run using {}
+    #code
+end
+
 
 
 

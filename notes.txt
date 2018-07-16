@@ -1,1 +1,8 @@
 
+ruby notes          7/16/2018
+
+ruby methods that end in "?" evaluate/return to a bool true or false value
+
+print double quotes as \" or newline as \n
+
+

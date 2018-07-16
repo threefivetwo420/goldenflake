@@ -9,3 +9,19 @@ print double quotes as \" or newline as \n
 global sub will replace a specific characters in a string with other charcters
 string_var.gsub!(/targetChar/, "replacementChar")
 
+
+while condition
+    #code
+end
+
+------------------
+
+until condition
+  #code
+  
+end
+
+increment variable as "+="
+decrement variable as "-+"
+multiment variable as "*="
+dividment variable as "/="

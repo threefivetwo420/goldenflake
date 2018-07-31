@@ -86,3 +86,7 @@ puts/print newHash["key"]       #will print the "value"
 
 https://github.com/chef-partners/passwordmasker
 https://github.com/Coalfire-Research/iOS-11.1.2-15B202-Jailbreak/blob/master/iOS_jailbreak_writeup.pdf
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+^fixing the sha256 to rsa encryption
+

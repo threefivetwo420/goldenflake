@@ -93,5 +93,10 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
 hashName.each_value{|x| puts x} 
     # will print out the values for the key value pairs
     
-    
+
+
+**breaking a string into words**
+    puts "ask for data or pass data string"
+    var1 = gets.chomp
+    varWords = var1.split
 

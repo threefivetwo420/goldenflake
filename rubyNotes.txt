@@ -90,3 +90,8 @@ https://github.com/Coalfire-Research/iOS-11.1.2-15B202-Jailbreak/blob/master/iOS
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
 ^fixing the sha256 to rsa encryption
 
+hashName.each_value{|x| puts x} 
+    # will print out the values for the key value pairs
+    
+    
+

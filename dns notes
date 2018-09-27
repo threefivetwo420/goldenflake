@@ -23,3 +23,44 @@ IP, Host Name, Computer, Software Language, IP/Protocol
 
 Telnet is a protocol which allows you to connect hosts/computers over a TCP/IP network , the internet,  
 https://kb.iu.edu/d/aayd
+
+https://developer.mozilla.org/en-US/docs/Glossary/CRLF
+
+CRLF - Carriage Return & Linefeed 
+
+So LF moves the paper up like a type writer, CR returns the cursor to the left most position. 
+
+****
+C++ example 
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World\n\n";
+    cout<<"************"; //this got overwritten
+    cout<<"this is rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr";
+    cout<<"\r here it is?";
+    cout<<"================";
+    //cout<<"this is \n";
+    cout<<"--------------";
+    cout<<"here is both       \r\nbubble";
+    
+    
+    return 0;
+}
+
+****
+
+
+So /r which is new age c++ CR will move cursor left and rewrite over the console.
+
+
+
+
+
+
+
+

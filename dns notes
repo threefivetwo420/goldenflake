@@ -9,7 +9,9 @@ SRI international began as stanford research institute until 1970
 National Information Center (NIC) assigned Top Level Domains (TLP) ".com" , ".gov" , ".org" to
 network hosts which were managed by SRI from 1970 to 1991, SRI is the first organization to assign TLP.
 
+NIC was the information hub for the arpanet SRI the original node. Later to become the Defense Data Network (DDS)
+Which was used by Universities and Government and other researchers. Apranet later became the internet.
 
-
-
+Host names are/were important for routing traffic. since 1971 NIC role was to administer host tables for the network, later to go on to
+administer IP
 

@@ -100,3 +100,9 @@ hashName.each_value{|x| puts x}
     var1 = gets.chomp
     varWords = var1.split
 
+creating hash
+
+new_hash = {"sting" => 1}
+or
+new_hash = Hash.new
+

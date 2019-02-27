@@ -94,3 +94,27 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 
 
                         #writeInData would need to write the data into the array which was made with a random amount of index, write in data would only have 6 if clauses because the 6 data types would be run a random amount of times which would write all 6 data types possible to every index in the array. the control for the loop is stopping at random number - 1 and is starting at 0 so 0 is being checked against random number - 1 while counter 0 <= rn -1 then the loop will continue checking each randomly generated data type 1-6 or 0-5 should it be rand(5) + 1 since this is 1-6 no zero to avoid an empty array, like wise the rand(19) + 1 should be added as well to remove the 0 from the array possibilities. So what goes into the function is random number - 1, counter=0, data type random number. at the end of the while loop since it runs until counter is greater than random number - 1 meanwhile indexing the array, which won't quite set a new value for the incoming random data type. so the other variable should be handled outside of the loop where, when the while loop starts it should test the incoming data but also set off a new random number.  
+
+    #so if countrFake != countr && integer == dataRan 
+    	#run the new dataRan function
+    #this should be run on one line
+    
+    #so if 0 == countr Do dataRan function
+
+2260 Maravilla Dr, Los Angeles, CA 90068
+
+1830 N Stanley Ave, Los Angeles, CA 90046
+
+2110 Hercules Dr, Los Angeles, CA 90046
+
+2002 Hercules Dr, Los Angeles, CA 90046
+
+2002 Hercules Dr, Los Angeles, CA 90046
+
+1654 Blue Jay Way, Los Angeles, CA 90069
+
+2235 Hercules Dr, Los Angeles, CA 90046
+
+8366 Sunset View Dr, Los Angeles, CA 90069
+
+2267 Chislehurst Dr, Los Angeles, CA 90027

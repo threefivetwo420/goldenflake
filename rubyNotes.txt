@@ -18,6 +18,9 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
                           numAry = Array.new
                             @@ranNum = rand(20)
                           @@countr = 0
+                          @@dataNum 
+                          @@dataNumRT
+
 
                           def self.ranNumr
                             @@ranNum
@@ -25,6 +28,12 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
                           def self.count
                             @@countr
                           end
+                          def self.dataCast
+                            @@dataNum = rand(6)
+                          end
+                          def self.dataNumRT
+                            @@dataNumRT
+                            end
                         end
 
 
@@ -32,16 +41,52 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 
 
                         class NumberFill
+
+                          @@rNums
+                          def self.aryData 
+                            @@rNums
+                          end	
                             def numberGen() 
                           puts "this is #{NumData.ranNumr}"
-                          rNums = Array.new(NumData.ranNumr)
-                          puts  "this is array #{rNums}"
+                          @@rNums = Array.new(NumData.ranNumr)
+                          puts  "this is array #{@@rNums}"
                          # rNums.each { |x| 
                             #newV = NumData.count + 1
                             #print rNums
                             #}
-
                             end
+
+                          def arrayFill()
+                          end 
+
                         end
                           object = NumberFill. new
                         object.numberGen()
+
+                        #so now the function will need to fill up the @@rNums[@@ranNum - 1] with random long float, symbol:, Strings, boolean, big integer, file.
+
+                        # so this would basically use a genrated random number to set off different function for a type of data to be stored in the array
+
+
+
+                        puts "\n\n dataCast \n ------- \n Try1 :#{NumData.dataCast} \n Try2: #{NumData.dataCast} \n Try3: #{NumData.dataCast} \n Try4: #{NumData.dataCast} \n Try5: #{NumData.dataCast} \n Try6: #{NumData.dataCast} \n"
+
+
+                        #object = NumData. new
+                        #object.dataCast()
+
+                        #define 0=longfloat 
+                          #length of array is loopStop??
+                            #array index ranNumr - 1
+                          def writeInData(integer,countr,loopStop)
+                            while countr <= loopStop	
+                            if	integer == 0 
+                              NumberFill.aryData[countr] = rand()
+                              puts "#{NumberFill.aryData}"
+                              countr = countr + 1
+                            end
+                             if 
+
+                          end
+
+                            writeInData(NumData.dataCast,NumData.count)

@@ -3,3 +3,9 @@
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby
 
 
+
+    expression if boolean
+        puts "shortIf" if true
+        #next example
+    boolean ? Do this if true: Do this if false 
+      

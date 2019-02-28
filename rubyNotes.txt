@@ -101,20 +101,26 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
     
     #so if 0 == countr Do dataRan function
 
-2260 Maravilla Dr, Los Angeles, CA 90068
 
-1830 N Stanley Ave, Los Angeles, CA 90046
 
-2110 Hercules Dr, Los Angeles, CA 90046
 
-2002 Hercules Dr, Los Angeles, CA 90046
+        Conditional Assignment Operator
+                ||=
+                which will assign a value only if a value has not already been assigned to a variable
+                
 
-2002 Hercules Dr, Los Angeles, CA 90046
 
-1654 Blue Jay Way, Los Angeles, CA 90069
 
-2235 Hercules Dr, Los Angeles, CA 90046
 
-8366 Sunset View Dr, Los Angeles, CA 90069
 
-2267 Chislehurst Dr, Los Angeles, CA 90027
+
+
+
+
+
+
+
+
+
+
+

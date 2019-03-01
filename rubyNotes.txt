@@ -110,13 +110,18 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
                 
 
 
+           Assignment Operators
+                && for both condition to be true
+                || for one or the other other to be true
 
 
 
 
 
+using the .upto .downto functions or loops
 
-
+        exmaple 
+            95.upto
 
 
 

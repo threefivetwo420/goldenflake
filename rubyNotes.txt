@@ -129,3 +129,37 @@ https://arxiv.org/abs/0805.1079?context=physics
 https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits
 
 
+10 volt battery 
+
+http://cse.unl.edu/~lksoh/Classes/CSCE155N_Fall16/handouts/HistoryComputing.pdf
+
+ Atanasoff's design utilized capacitors
+
+http://www.columbia.edu/~td2177/JVAtanasoff/JVAtanasoff.html
+
+http://ds-wordpress.haverford.edu/bitbybit/bit-by-bit-contents/chapter-four/4-6-the-atanasoff-berry-computer/
+
+Atanasoff had decided to become a theoretical physicist. But the physics program at the University of Florida in Gainesville
+
+could store 30 5 bit numbers 
+
+00000 30 times
+
+lacked a processor?
+
+http://www.columbia.edu/cu/computinghistory/eniac.html
+
+https://www.ams.org/home/page
+
+https://www.ams.org/journals/mcom/1946-02-015/S0025-5718-1946-0018977-0/S0025-5718-1946-0018977-0.pdf
+
+microsecond = 1/1000000
+
+4.
+The simplest tube used is the triode, so called because it has three characteristic
+elements: the cathode (surface which gives off electrons), the
+plate (surface which receives electrons), and the grid (which controls the
+current passing through the tube). In addition, there is a heater to bring
+the cathode to the temperature required for it to emit electrons. Other tubes
+used in the ENIAC are multi-grid tubes, for example, the pentode which
+has 3 grids.

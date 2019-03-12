@@ -163,3 +163,20 @@ current passing through the tube). In addition, there is a heater to bring
 the cathode to the temperature required for it to emit electrons. Other tubes
 used in the ENIAC are multi-grid tubes, for example, the pentode which
 has 3 grids.
+
+
+
+coaxial cables have four primary electrical constants, RLGC
+resistance in ohms, inductance in henries, conductance in mhos, and C in Farads
+
+https://books.google.com/books?id=W9zcBwAAQBAJ&pg=PA8&lpg=PA8&dq=trunk+lines+network&source=bl&ots=g_UMLHZt0b&sig=ACfU3U0OIdI-n7iJgII2tu-YKspxamtToQ&hl=en&sa=X&ved=2ahUKEwjMu47Xhf3gAhVineAKHc5zDeA4FBDoATAKegQIAxAB#v=onepage&q=trunk%20lines%20network&f=false
+
+https://ftp.arl.army.mil/mike/comphist/46eniac-report/chap1.html
+
+http://web.mst.edu/~kosbar/ee3430/ff/transmissionlines/example_twistedpair/sines/index.html
+
+100 kc sine waves
+
+https://www.utdallas.edu/~metin/Merit/Folios/refine.pdf <-
+
+how hot is a lighter

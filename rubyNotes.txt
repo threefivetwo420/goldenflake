@@ -124,8 +124,8 @@ using the .upto .downto functions or loops
             95.upto
 
 
-
-
-
+https://arxiv.org/
+https://arxiv.org/abs/0805.1079?context=physics
+https://phet.colorado.edu/en/simulations/category/physics/electricity-magnets-and-circuits
 
 

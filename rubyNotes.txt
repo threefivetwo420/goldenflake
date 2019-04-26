@@ -180,3 +180,96 @@ http://web.mst.edu/~kosbar/ee3430/ff/transmissionlines/example_twistedpair/sines
 https://www.utdallas.edu/~metin/Merit/Folios/refine.pdf <-
 
 how hot is a lighter
+
+order of one line if statement matters
+
+
+experssion if boolean
+
+puts "It's true!" if true    # is acceptable, correct
+
+if true puts "It's true!"    # may not be done
+
+
+.upto nd .downto functions
+
+
+example 95.upto(100) { |num| print num, " " } 
+	# Prints 95 96 97 98 99 100
+
+could even do so with letters
+
+"L".upto("P") { |x| puts x}
+
+
+
+Call and Response
+
+.respond_to? takes a symbol and returns true if an object can receive that 
+
+method and false otherwise
+
+Example
+	[1,2,3].respond_to?(:push)  # would return true since you can call 
+
+push on an array object
+
+however 
+	[1,2,3].respond_to?(:to_sym) would return false since you can't 
+
+turn an array into a symbol
+
+basically will that function execute
+
+
+.push adds an element to the end of an array, so does the << concatenation 
+
+operator
+
+[1,2,3] << 4
+# ==> [1,2,3,4]
+
+works on strings as well 
+
+String interpolation
+
++ and << can be used to add a variable value into a string but it is more 
+
+complicated than string interpolation
+
+example
+
+varibale = "north"
+
+"The king in the #{variable}!"
+
+
+"king in the #{variable}!"
+
+
+Ternary Operator 
+
+puts three == 3 ? "Of course." : "commentorwhatevr4else"
+
+case do statement
+
+
+
+https://images.theweek.com/sites/default/files/10_224019.jpg?resize=807x807
+
+https://images.theweek.com/sites/default/files/81_224063.jpg?resize=807x807
+
+https://images.theweek.com/sites/default/files/136_223980.jpg?resize=807x807
+
+
+https://scifi.stackexchange.com/questions/34612/reading-order-of-a-song-of-ice-and-fire
+
+https://static.boredpanda.com/blog/wp-content/uploads/2019/04/season-8-premiere-game-of-thrones-got-memes-4-5cb58ca64d385__700.jpg
+
+
+https://melmagazine.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-18-at-12.52.38-PM.png
+
+https://melmagazine.com/wp-content/uploads/2019/04/4uw5odc9jfp01.jpg
+
+http://media.slaplaughter.danoah.com/wp-content/uploads/20171212180613/1-Hang-in-there-660x750.jpg
+
